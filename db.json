@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "James Williams",
+      "email": "jameswilly@gmail.com",
+      "number": "08111111111"
+    },
+    {
+      "id": "3",
+      "name": "Ahmed Ali",
+      "email": "ahmedali012@gmail.com",
+      "number": "09022222222"
+    },
+    {
+      "id": "5",
+      "name": "mohit",
+      "email": "mohit@gmail.com",
+      "number": "999990009"
+    },
+    {
+      "id": "6",
+      "name": "Bhumika",
+      "email": "bhumika@gmail.com",
+      "number": "6677889900"
+    },
+    {
+      "id": "4",
+      "name": "mansi",
+      "email": "mansi@gmail.com",
+      "number": "8989001234 "
+    }
+  ]
+}
